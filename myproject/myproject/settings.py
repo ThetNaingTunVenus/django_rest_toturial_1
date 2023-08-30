@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'myapp',
     'tutorial1',
     'classbaseview',
+    'serializer_tutorial',
 ]
 
 MIDDLEWARE = [
